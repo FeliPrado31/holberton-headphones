@@ -221,7 +221,7 @@ ul li {
 :root {
   --color-white: #ffffff;
   --color-black: #000000;
-  --color-hardPink: #FF6565;
+  --color-pink: #FF6565;
   --font-family: 'Source Sans Pro', sans-serif;
   --font-size-bigger: 46px;
   --font-size-small: 12px;
@@ -271,7 +271,7 @@ a {
 }
 
 a:hover {
-  color: var(--color-hardPink);
+  color: var(--color-pink);
 }
 
 .hero__main {
@@ -283,7 +283,7 @@ a:hover {
 }
 
 .hero__btn_primary {
-  background-color: var(--color-hardPink);
+  background-color: var(--color-pink);
   color: var(--color-white);
   text-transform: var(--text-transform);
   font-weight: var(--font-weight-bold);
@@ -488,7 +488,7 @@ a:hover {
   line-height: 1;
   -webkit-font-smoothing: antialiased;
   font-size: 100px;
-  color: var(--color-hardPink);
+  color: var(--color-pink);
 }
 
 .hbi-sound:before {
