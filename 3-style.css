@@ -279,7 +279,7 @@ a:hover {
 }
 
 .text__black {
-  color: var(--color-black);
+  color: var(--color-black)
 }
 
 .hero__main {
@@ -533,6 +533,53 @@ a:hover {
   font-weight: var(--font-weight-regular);
 }
 
+
+.wrap_form {
+  width: 335px;
+  margin: 50px auto;
+}
+
+.wrap_form>h1 {
+  padding: 0 0 25px 0;
+  font-weight: var(--font-weight-semi-bold);
+}
+
+.form__control {
+  width: 100%;
+  border: none;
+  border-bottom: 1px solid gray;
+  font-family: var(--font-family);
+  font-size: var(--font-size-medium);
+  font-weight: var(--font-weight-semi-bold);
+  color: var(--color-black);
+  margin: 30px 0;
+  padding: 0 0 15px 0;
+}
+
+.form__control::placeholder {
+  font-family: var(--font-family);
+  font-size: var(--font-size-medium);
+  font-weight: var(--font-weight-semi-bold);
+  color: var(--color-black);
+}
+
+.form__control_textarea {
+  width: 100%;
+  border: none;
+  border-bottom: 1px solid gray;
+  font-family: var(--font-family);
+  font-size: var(--font-size-medium);
+  font-weight: var(--font-weight-semi-bold);
+  color: var(--color-black);
+  margin: 25px 0 30px 0;
+}
+
+.textAreaForm::placeholder {
+  font-family: var(--font-family);
+  font-size: var(--font-size-medium);
+  font-weight: var(--font-weight-semi-bold);
+  color: var(--color-black);
+}
 
 /* Some icons */
 
