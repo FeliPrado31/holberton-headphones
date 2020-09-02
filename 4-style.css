@@ -663,6 +663,10 @@ footer>p {
   content: "\e90a";
 }
 
+.nav__primary>li>a:hover {
+  color: var(--color-pink);
+}
+
 /* medias 
    ================*/
 

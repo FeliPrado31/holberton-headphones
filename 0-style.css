@@ -413,6 +413,9 @@ a:hover {
   top: 5px;
 }
 
+.nav__primary>li>a:hover {
+  color: var(--color-pink);
+}
 
 /* medias 
    ================*/

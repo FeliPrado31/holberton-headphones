@@ -565,6 +565,9 @@ a:hover {
   content: "\e909";
 }
 
+.nav__primary>li>a:hover {
+  color: var(--color-pink);
+}
 /* medias 
    ================*/
 
