@@ -10,7 +10,7 @@ You won’t have a lot of instruction, you are free to implement it the way that
 
 | Mockup |
 | --- |
-|![image](https://holbertonintranet.s3.amazonaws.com/uploads/medias/2020/2/60df485eb772ecbad54a.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIARDDGGGOUWMNL5ANN%2F20200902%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20200902T233814Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=dc57af3672e865283f2ca28e9d4c5ec04ef46be8af9b2a3e8c3c2400a20910b1)|
+|![image](https://i.imgur.com/vxlPj96.jpg)|
 
 ## Bugs🐞
 No known bugs at this time. 
